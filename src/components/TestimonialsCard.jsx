@@ -1,4 +1,4 @@
-import { RiDoubleQuotesL, RiDoubleQuotesR } from "react-icons/ri";
+import { RiDoubleQuotesL } from "react-icons/ri";
 
 const TestimonialsCard = ({ imgSource, endorserName, testimonial }) => {
   return (
