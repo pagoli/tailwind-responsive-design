@@ -9,4 +9,6 @@ Just an easy responsive design for a fictive bird web site, modified by me, insp
 **Sources** =>
 [Travery Media Tutorial](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 
-## Live Version (via github-pages): [Click here](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+## Live Version (via github-pages): [Click here](https://pagoli.github.io/tailwind-responsive-design/)
+
+## This is an older project I hadn't deployed yet.
