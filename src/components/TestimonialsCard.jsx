@@ -13,7 +13,10 @@ const TestimonialsCard = ({ imgSource, endorserName, testimonial }) => {
           <h5 className="text-lg font-bold sm:text-3xl md:text-2xl">
             {endorserName}
           </h5>
-          <p className="text-xl md:text-lg lg:text-xl">{`${testimonial}`}</p>
+          <blockquote className="w-11/12 italic">
+            <RiDoubleQuotesL className="fill-slate-700 text-3xl" />
+            <p className="text-xl md:text-lg lg:text-xl">{`${testimonial}`}</p>
+          </blockquote>
         </div>
       </div>
     </>

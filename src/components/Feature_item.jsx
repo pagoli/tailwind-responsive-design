@@ -20,7 +20,7 @@ const Feature_item = ({ num, featureHeading, description }) => {
             </h3>
           </div>
         </div>
-        <p className="text-lightPink text-lg lg:text-xl md:py-4">
+        <p className="text-lightPink text-lg leading-8 lg:text-xl md:py-4">
           {description}
         </p>
       </div>

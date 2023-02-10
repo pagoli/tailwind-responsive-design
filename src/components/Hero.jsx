@@ -1,5 +1,5 @@
 import React from "react";
-import geese_flying from "../assets/geese_flying.png";
+import geese_flying from "../assets/geese_flying_by_Gary_Bendig.png";
 
 const Hero = () => {
   return (
@@ -23,12 +23,11 @@ const Hero = () => {
             </a>
           </div>
         </div>
-        <div className="w-full pl-0 sm:pl-8 md:pl-0 md:w-1/2">
-          <img
-            src={geese_flying}
-            alt="flock of flying geese"
-            // className="pl-0 sm:pl-8 md:pl-0"
-          />
+        <div className="w-full pl-0 sm:pl-8 md:pl-0 md:w-1/2 hover:scale-105 cursor-pointer">
+          <img src={geese_flying} alt="flock of flying geese" />
+          <p className="text-sm text-slate-500 pt-4">
+            Picture by Gary Bendig via Unsplash
+          </p>
         </div>
       </div>
     </section>
