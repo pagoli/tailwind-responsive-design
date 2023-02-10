@@ -20,4 +20,5 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 90% - 25%;
+  cursor: default;
 }
